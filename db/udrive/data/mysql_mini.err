@@ -1,0 +1,71 @@
+Can't start server: Bind on TCP/IP port: Invalid argument
+160510 22:56:43 [ERROR] Do you already have another mysqld server running on port: 3311 ?
+160510 22:56:43 [ERROR] Aborting
+
+160510 22:56:43 [Note] Z:\bin\mysqld-opt.exe: Shutdown complete
+
+170313  9:09:09 [Note] \bin\mysqld-opt.exe: ready for connections.
+Version: '5.0.67-community-nt'  socket: ''  port: 3311  MySQL Community Edition (GPL)
+170313  9:09:09 [ERROR] mysqld: Got error 10038 from select
+170313  9:28:03 [ERROR] mysqld: Got error 10038 from select
+170313  9:46:08 [ERROR] mysqld: Got error 10038 from select
+170313 10:04:10 [ERROR] mysqld: Got error 10038 from select
+170313 10:24:03 [ERROR] mysqld: Got error 10038 from select
+170313 10:44:20 [ERROR] mysqld: Got error 10038 from select
+170313 11:04:35 [ERROR] mysqld: Got error 10038 from select
+170313 11:24:52 [ERROR] mysqld: Got error 10038 from select
+170313 11:44:48 [ERROR] mysqld: Got error 10038 from select
+170313 12:03:38 [ERROR] mysqld: Got error 10038 from select
+170313 12:21:00 [ERROR] mysqld: Got error 10038 from select
+170313 12:38:03 [ERROR] mysqld: Got error 10038 from select
+170313 12:55:20 [ERROR] mysqld: Got error 10038 from select
+170313 13:12:21 [ERROR] mysqld: Got error 10038 from select
+170313 13:29:44 [ERROR] mysqld: Got error 10038 from select
+170511 17:52:43 [Note] \bin\mysqld-opt.exe: ready for connections.
+Version: '5.0.67-community-nt'  socket: ''  port: 3311  MySQL Community Edition (GPL)
+170801 14:47:48 [Note] \bin\mysqld-opt.exe: ready for connections.
+Version: '5.0.67-community-nt'  socket: ''  port: 3311  MySQL Community Edition (GPL)
+170801 14:47:48 [ERROR] mysqld: Got error 10038 from select
+170801 15:06:52 [ERROR] mysqld: Got error 10038 from select
+170801 15:25:08 [ERROR] mysqld: Got error 10038 from select
+170801 15:42:33 [ERROR] mysqld: Got error 10038 from select
+170801 16:00:35 [ERROR] mysqld: Got error 10038 from select
+170801 16:18:32 [ERROR] mysqld: Got error 10038 from select
+170801 16:37:17 [ERROR] mysqld: Got error 10038 from select
+170801 16:55:41 [ERROR] mysqld: Got error 10038 from select
+170801 17:13:29 [ERROR] mysqld: Got error 10038 from select
+170801 17:31:25 [ERROR] mysqld: Got error 10038 from select
+170801 17:49:19 [ERROR] mysqld: Got error 10038 from select
+170801 18:08:22 [ERROR] mysqld: Got error 10038 from select
+170801 18:27:43 [ERROR] mysqld: Got error 10038 from select
+170801 18:47:15 [ERROR] mysqld: Got error 10038 from select
+170801 19:06:34 [ERROR] mysqld: Got error 10038 from select
+170801 19:23:34 [ERROR] mysqld: Got error 10038 from select
+170801 19:40:19 [ERROR] mysqld: Got error 10038 from select
+170801 19:57:49 [ERROR] mysqld: Got error 10038 from select
+170801 20:14:51 [ERROR] mysqld: Got error 10038 from select
+170801 20:32:23 [ERROR] mysqld: Got error 10038 from select
+170801 20:49:50 [ERROR] mysqld: Got error 10038 from select
+170801 21:06:21 [ERROR] mysqld: Got error 10038 from select
+170801 21:23:21 [ERROR] mysqld: Got error 10038 from select
+170801 21:40:20 [ERROR] mysqld: Got error 10038 from select
+170801 21:59:19 [ERROR] mysqld: Got error 10038 from select
+170801 22:17:55 [ERROR] mysqld: Got error 10038 from select
+170801 22:35:41 [ERROR] mysqld: Got error 10038 from select
+170801 22:53:15 [ERROR] mysqld: Got error 10038 from select
+170801 23:10:46 [ERROR] mysqld: Got error 10038 from select
+170801 23:27:51 [ERROR] mysqld: Got error 10038 from select
+170801 23:45:23 [ERROR] mysqld: Got error 10038 from select
+170802  0:02:05 [ERROR] mysqld: Got error 10038 from select
+170802  0:18:40 [ERROR] mysqld: Got error 10038 from select
+170802  0:35:35 [ERROR] mysqld: Got error 10038 from select
+170802  0:52:37 [ERROR] mysqld: Got error 10038 from select
+170802  1:09:40 [ERROR] mysqld: Got error 10038 from select
+170802  1:26:38 [ERROR] mysqld: Got error 10038 from select
+170802  1:43:43 [ERROR] mysqld: Got error 10038 from select
+170802  2:01:16 [ERROR] mysqld: Got error 10038 from select
+170802  2:18:22 [ERROR] mysqld: Got error 10038 from select
+170802  2:35:28 [ERROR] mysqld: Got error 10038 from select
+170802  2:52:44 [ERROR] mysqld: Got error 10038 from select
+170802  3:09:50 [ERROR] mysqld: Got error 10038 from select
+170802  3:26:48 [ERROR] mysqld: Got error 10038 from select
